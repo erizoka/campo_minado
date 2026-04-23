@@ -1,4 +1,4 @@
-package com.example.campo_minado
+package com.erizoka.campo_minado
 
 import io.flutter.embedding.android.FlutterActivity
 
